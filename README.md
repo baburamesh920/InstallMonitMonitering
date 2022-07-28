@@ -9,6 +9,6 @@ After running the script
 
 
 
-systemctl start monit
-systemctl stop monit
+systemctl start monit <br>
+systemctl stop monit <br>
 systemctl status monit
