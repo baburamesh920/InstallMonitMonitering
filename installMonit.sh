@@ -1,3 +1,5 @@
+sudo apt get update -y
+sudo apt get upgrade -y
 cd ~
 wget http://mmonit.com/monit/dist/binary/5.32.0/monit-5.32.0-linux-x64.tar.gz
 tar zxf monit-5.32.0-linux-x64.tar.gz
